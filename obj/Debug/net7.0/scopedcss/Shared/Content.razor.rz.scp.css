@@ -1,0 +1,31 @@
+.content[b-y7kx5a54tj]{
+    padding-left: 10px;
+    max-width: 100%;
+}
+
+.heading[b-y7kx5a54tj]{
+    color: white;
+}
+
+a[b-y7kx5a54tj] {
+    color:white;
+    font-size: 40px;
+}
+
+.event-list > li[b-y7kx5a54tj]{
+    list-style-type: none ;
+    font-size: 1.5em ;
+    color: white ;
+}
+
+.event-container[b-y7kx5a54tj]{
+    display: block ;
+    width: 90% ;
+    background-color: rgba(0, 0, 0, 0.673) ;
+}
+
+.event-container > h4[b-y7kx5a54tj]{
+    font-size: 0.8em ;
+    padding: 5px 10px ;
+    margin: 0 ;
+}

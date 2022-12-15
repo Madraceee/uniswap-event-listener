@@ -1,0 +1,11 @@
+.nav-bar{
+    background-color: blueviolet;
+    color:white;
+    display: block;
+    height: 50px;
+}
+
+.nav-bar > h2{
+    padding: 10px;
+    font-size: 1.7em;
+}
